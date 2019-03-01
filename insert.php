@@ -43,7 +43,7 @@
 </head>
 <body>
 	<div class="contenedor">
-		<h2>CRUD EN PHP CON MYSQL</h2>
+		<h2>INSERTAR NUEVOS DATOS</h2>
 		<form action="" method="post">
 			<div class="grupo">
 			<div class="form-group">
